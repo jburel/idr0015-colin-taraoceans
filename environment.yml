@@ -4,3 +4,4 @@ channels:
   - defaults
 dependencies:
   - omero-python=5.5.1
+  - python=2.7

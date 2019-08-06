@@ -1,0 +1,6 @@
+name: base
+channels:
+  - manics
+  - defaults
+dependencies:
+  - omero-python=5.5.1

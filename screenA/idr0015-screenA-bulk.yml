@@ -1,4 +1,11 @@
 ---
+continue: "true"
+transfer: "ln_s"
+exclude: "clientpath"
+columns:
+  - name
+  - path
+parallel_upload: "10"
+skip: "all"
 target: "Screen:name:idr0015-colin-taraoceans/screenA"
-include: "../../bulk.yml"
 path: "idr0015-screenA-plates.tsv"

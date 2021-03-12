@@ -1,0 +1,8 @@
+name: base
+channels:
+  - ome
+  - conda-forge
+dependencies:
+  - folium=0.12
+  - omero-py=5.8
+  - pandas=1

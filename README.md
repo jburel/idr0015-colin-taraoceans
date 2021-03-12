@@ -17,3 +17,4 @@ Plate MapAnnotations
     ~/OMERO.server/bin/omero shell --login
     
     execfile('annotation_plates.py')
+
